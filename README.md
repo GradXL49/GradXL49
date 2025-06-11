@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m GradXL49
+
+## 🚀 Lead Software Architect | Full Stack Developer
+
+Welcome to my GitHub!  
+I’m a passionate Lead Software Architect, specializing in full stack development across modern web and backend technologies.
+
+- ⚡ **Proficient in:** Angular, React, SQL databases, Python, and Node.js
+- 🕹️ **Game enthusiast:** I love creating game prototypes in Unity and Godot
+- 🎮 **Passionate about:** Video games and exploring new game mechanics
+
+---
+
+## 🌟 Featured Projects
+
+- [**demowheel**](https://github.com/GradXL49/demowheel)  
+  _A highly customizable spinning wheel random selector._
+
+- [**boardborne**](https://github.com/GradXL49/boardborne)  
+  _A gamification of typing which takes inspiration from the Dark Souls games._
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grady%20Landers-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/grady-landers)
+
+---
 
 <!--
-**GradXL49/GradXL49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**GradXL49/GradXL49** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
 -->
