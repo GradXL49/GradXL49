@@ -1,4 +1,4 @@
-# 👋 Hi, I’m GradXL49
+# 👋 Hi, I’m Grady
 
 ## 🚀 Lead Software Architect | Full Stack Developer
 
